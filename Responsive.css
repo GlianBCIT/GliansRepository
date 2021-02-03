@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    width: 100vw;
+    height: 10vw;
+    
+}
+
+.metrolics {
+    
+}
+
+.hamburgermenu {
+
+}
+
+.hamburger {
+    width: 40px;
+    
+}
